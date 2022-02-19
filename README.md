@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LAVANYASARAVANAN
+- 👋 Hi, I’m @ S.Lavanya
 - 👀 I’m interested in Devops
 
 
